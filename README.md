@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aileen
-- 👀 I’m interested in data mining for public policy analysis
+- 👀 I’m interested in data mining and public policy
 - 🌱 I’m currently learning deep learning and A/B testing
 - 📫 Reach me at xiang.aileen.pan@gmail.com
 
