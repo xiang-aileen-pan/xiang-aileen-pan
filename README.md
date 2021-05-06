@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aileen
-- 👀 I’m interested in data mining for business analysis bi dashboarding
+- 👀 I’m interested in data mining for business analysis and BI dashboarding
 - 🌱 I’m currently learning deep learning and A/B testing
 - 📫 Reach me at xiang.aileen.pan@gmail.com
 
